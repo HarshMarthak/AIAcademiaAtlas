@@ -38,9 +38,13 @@ Springer
 Content: full-text of SpringerOpen journal content and BioMed Central, as well as metadata from other Springer resources
 Permissions: free to access. Request a key at https://dev.springer.com/signup
 Limitations: noncommercial use
+
 Elsevier
 Content: multiple APIs for full-text books and journals from ScienceDirect and citation data from Engineering Village and Embase
 Permissions: free to register; click 'Get API Key" to request a personal key: https://dev.elsevier.com/
-Limitations: "Researchers at subscribing academic institutions can text mine subscribed full-text ScienceDirect content via the Elsevier APIs for non-commercial purposes."   Usage policies depend on use cases; see the list at https://dev.elsevier.com/use_cases.html
+Limitations: "Researchers at subscribing academic institutions can text mine subscribed full-text ScienceDirect content via the Elsevier APIs for non-commercial purposes."   
+Usage policies depend on use cases; see the list at https://dev.elsevier.com/use_cases.html
 
 https://guides.temple.edu/APIs#:~:text=API%20stands%20for%20application%20programming,in%20a%20machine%2Dreadable%20format. 
+
+
