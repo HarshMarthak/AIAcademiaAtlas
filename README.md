@@ -47,4 +47,3 @@ Usage policies depend on use cases; see the list at https://dev.elsevier.com/use
 
 https://guides.temple.edu/APIs#:~:text=API%20stands%20for%20application%20programming,in%20a%20machine%2Dreadable%20format. 
 
-
