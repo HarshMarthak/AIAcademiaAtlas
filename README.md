@@ -47,3 +47,18 @@ Usage policies depend on use cases; see the list at https://dev.elsevier.com/use
 
 https://guides.temple.edu/APIs#:~:text=API%20stands%20for%20application%20programming,in%20a%20machine%2Dreadable%20format. 
 
+Store it in a Database or Excel sheet.
+
+Collect data like titles, authors, affiliations, URN/DOI, publication dates, citations, and keywords.
+
+How are the papers cited? Is it in the literature review? Is it cited as a rebuttal?
+
+To make the process quicker, we can only analyse abstracts and bibliographies.
+
+Data analysis:
+
+
+
+Visualization:
+
+Gephi
