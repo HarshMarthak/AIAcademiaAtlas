@@ -5,7 +5,7 @@ Define the Scope:
 
 Each node (paper, institute, topic or author) can be represented as a point, with lines connecting related nodes called edges.
 
-The size of each node can be determined by how many citations/papers/ it has
+The size of each node can be determined by how many citations/papers/ it has.
 
 I think it should be a Citation Network
 
